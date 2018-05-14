@@ -1,0 +1,5 @@
+package code;
+
+public enum Marke {
+	MERCEDES,PORSCHE,FERRARI,OPEL,LAMBORGINI,PEUGOT,RENAULT
+}
